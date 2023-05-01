@@ -1,4 +1,4 @@
-# AirBnB Clone - The Console
+# AirBnB_clone_v3: RESTful API alx-Team Project (Ali Abdela Ali and Aganze Felicite)
 
 [![CodeStyle](https://github.com/B3zaleel/AirBnB_clone_v3/actions/workflows/codestyle.yml/badge.svg)](https://github.com/B3zaleel/AirBnB_clone_v3/actions/workflows/codestyle.yml)
 
@@ -168,8 +168,7 @@ No known bugs at this time.
 ## Authors
 
 + Ali Abdela Ali - [GitHub](https://github.com/aliabdela47) / [Twitter](https://twitter.com/aliabdela4747) / [Gmail](ardii.2000@gmail.com)
-+ Aganze Felicite Aganze - [GitHub](https://github.com/) / [Twitter](https://twitter.com/) / [Gmail](@gmail.com)
-+ 
++ Aganze Felicite Aganze - [GitHub](https://github.com/AganzeFelicite) / [Twitter](https://twitter.com/) / [Gmail](aganzefelicite07@gmail.com)
 ## License
 
 No copy! Copy write protected.
